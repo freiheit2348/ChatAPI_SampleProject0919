@@ -9,6 +9,12 @@
 
 # VS/VS Code generated
 .vs/
+Build/
+Library/
+Logs/
+UserSettings/
+obj/
+*.sln
 .vscode/
 *.csproj
 *.unityproj
